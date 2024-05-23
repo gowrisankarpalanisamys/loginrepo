@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   
+}
+/* .main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+ } */
+
+.container{
+    border: 1px,solid;
+    padding: 20px;
+    width: 400px;
+    border-radius: 5px;  
+}
+.form{
+    margin-bottom: 10px;
+}
+input{
+    display: block;
+    padding: 5px;
+    width: 300px;
+}
+button{
+    background-color: rgb(76, 166, 245);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
